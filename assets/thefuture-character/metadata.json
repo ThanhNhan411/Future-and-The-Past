@@ -1,0 +1,99 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "d47a09f9-7255-4df8-bc2c-81b6fe663814",
+        "name": "m\u1ed9t con  ng\u01b0\u1eddi \u0111\u1ebfn",
+        "prompt": "m\u1ed9t con  ng\u01b0\u1eddi \u0111\u1ebfn t\u1eeb th\u1ebf gi\u1edbi t\u01b0\u01a1ng lai, m\u0103c b\u1ed9 \u0111\u1ed3 c\u1ee7a t\u01b0\u01a1ng lai",
+        "size": {
+          "width": 108,
+          "height": 108
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-26T00:51:35.860719+00:00"
+      },
+      "folder": "mt_con_ngi_n",
+      "frames": {
+        "rotations": {
+          "south": "mt_con_ngi_n/rotations/south.png",
+          "south-east": "mt_con_ngi_n/rotations/south-east.png",
+          "east": "mt_con_ngi_n/rotations/east.png",
+          "north-east": "mt_con_ngi_n/rotations/north-east.png",
+          "north": "mt_con_ngi_n/rotations/north.png",
+          "north-west": "mt_con_ngi_n/rotations/north-west.png",
+          "west": "mt_con_ngi_n/rotations/west.png",
+          "south-west": "mt_con_ngi_n/rotations/south-west.png"
+        },
+        "animations": {
+          "Running-396439f2": {
+            "east": [
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_000.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_001.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_002.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_003.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_004.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_005.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_006.png",
+              "mt_con_ngi_n/animations/Running-396439f2/east/frame_007.png"
+            ],
+            "west": [
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_000.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_001.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_002.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_003.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_004.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_005.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_006.png",
+              "mt_con_ngi_n/animations/Running-396439f2/west/frame_007.png"
+            ]
+          },
+          "Jumping-aa0aca8c": {
+            "west-6f0275f2": [
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_000.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_001.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_002.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_003.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_004.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_005.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_006.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-6f0275f2/frame_007.png"
+            ],
+            "east": [
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_000.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_001.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_002.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_003.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_004.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_005.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_006.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/east/frame_007.png"
+            ],
+            "west-862c684f": [
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_000.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_001.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_002.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_003.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_004.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_005.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_006.png",
+              "mt_con_ngi_n/animations/Jumping-aa0aca8c/west-862c684f/frame_007.png"
+            ]
+          },
+          "Breathing_Idle-4819fa3d": {
+            "east": [
+              "mt_con_ngi_n/animations/Breathing_Idle-4819fa3d/east/frame_000.png",
+              "mt_con_ngi_n/animations/Breathing_Idle-4819fa3d/east/frame_001.png",
+              "mt_con_ngi_n/animations/Breathing_Idle-4819fa3d/east/frame_002.png",
+              "mt_con_ngi_n/animations/Breathing_Idle-4819fa3d/east/frame_003.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-05-26T01:31:16.057538"
+}

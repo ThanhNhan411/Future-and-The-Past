@@ -1,0 +1,80 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "7a34fba3-000c-406a-84b2-9ee720f4b879",
+        "name": "m\u1ed9t ng\u01b0\u1eddi th\u1ed5 d\u00e2n th\u1eddi",
+        "prompt": "m\u1ed9t ng\u01b0\u1eddi th\u1ed5 d\u00e2n th\u1eddi \u0111\u1ed3 \u0111\u00e1",
+        "size": {
+          "width": 104,
+          "height": 104
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-25T17:10:34.705829+00:00"
+      },
+      "folder": "mt_ngi_th_dn_thi",
+      "frames": {
+        "rotations": {
+          "south": "mt_ngi_th_dn_thi/rotations/south.png",
+          "south-east": "mt_ngi_th_dn_thi/rotations/south-east.png",
+          "east": "mt_ngi_th_dn_thi/rotations/east.png",
+          "north-east": "mt_ngi_th_dn_thi/rotations/north-east.png",
+          "north": "mt_ngi_th_dn_thi/rotations/north.png",
+          "north-west": "mt_ngi_th_dn_thi/rotations/north-west.png",
+          "west": "mt_ngi_th_dn_thi/rotations/west.png",
+          "south-west": "mt_ngi_th_dn_thi/rotations/south-west.png"
+        },
+        "animations": {
+          "Running-f52097fe": {
+            "east": [
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_000.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_001.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_002.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_003.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_004.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_005.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_006.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/east/frame_007.png"
+            ],
+            "west-2f201ce8": [
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_000.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_001.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_002.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_003.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_004.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_005.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_006.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-2f201ce8/frame_007.png"
+            ],
+            "west-70f0c2d9": [
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_000.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_001.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_002.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_003.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_004.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_005.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_006.png",
+              "mt_ngi_th_dn_thi/animations/Running-f52097fe/west-70f0c2d9/frame_007.png"
+            ]
+          },
+          "Two-Footed_Jump-69c0519f": {
+            "east": [
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_000.png",
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_001.png",
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_002.png",
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_003.png",
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_004.png",
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_005.png",
+              "mt_ngi_th_dn_thi/animations/Two-Footed_Jump-69c0519f/east/frame_006.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-05-26T00:43:51.863300"
+}
